@@ -72,4 +72,4 @@ namespace min_prefix
 
 		return min_prefix;
 	}
-};
+}

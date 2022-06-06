@@ -11,7 +11,6 @@
 using namespace std;
 
 template<typename key_Ty, typename value_Ty>
-//template<typename map_cont_T, typename reduce_cont_T>
 struct map_reduce
 {
 	using map_cont_Ty = map<key_Ty, value_Ty>;
